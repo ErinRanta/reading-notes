@@ -8,7 +8,7 @@ I am excited to work with a **growth mindset**. It will help in the following wa
 - Knowing that if someone is succesful, it is inspiring, not a threat
 - It does not matter ones backgroundeveryone can learn!
 
-### Looking forward to working with everyone! :blush:
+### Looking forward to working with everyone! 😃
 
 
 
