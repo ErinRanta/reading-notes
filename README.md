@@ -1,6 +1,8 @@
-## Welcome to GitHub Pages
+# Hello! Welcome to my reading notes!
 
-You can use the [editor on GitHub](https://github.com/ErinRanta/reading-notes/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+### My name is Erin, I live in NYC, am a Mom of one daughter and 2 dogs, and a wife of a chef. I am here to do a full 180 in careers, and could not be more excited. [Here](
+
+
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
