@@ -6,6 +6,10 @@ Reading Notes 2!
 
 Reading Notes 3!
 
+Growth Mindset
+
+
+
 
 
 
