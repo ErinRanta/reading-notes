@@ -6,7 +6,7 @@
 
 [Reading Notes!](reading-notes2.md)
 
-Reading Notes2!
+[Reading Notes2!](RNotes#2.md)
 
 [Reading Notes 3](Reading-Notes3.md)
 
