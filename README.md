@@ -4,7 +4,7 @@
 
 [Growth Mindset](Growth Mindset)
 
-Reading Notes!
+[Reading Notes!](reading-notes2.md)
 
 Reading Notes2!
 
