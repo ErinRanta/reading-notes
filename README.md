@@ -18,7 +18,7 @@
 
 [Reading Notes 6!](Reading-Notes6.md)
 
-[Reading Notes 7!]{Reading-Notes7.md}
+[Reading-Notes-7](Reading-Notes7.md)
 
 
 
