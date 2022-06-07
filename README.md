@@ -20,9 +20,9 @@
 
 [Reading Notes 6!](Reading-Notes6.md)
 
-[Reading-Notes-7](Reading-Notes7.md)
+[Reading Notes 7](Reading-Notes7.md)
 
-[Reading-Notes-8!](Reading-Notes8.md)
+[Reading Notes 8!](Reading-Notes8.md)
 
 ## Reading Notes, Course 201:
 
