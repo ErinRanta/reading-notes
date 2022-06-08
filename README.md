@@ -28,7 +28,7 @@
 
 [Reading Notes 1](RN2011.md)           
 
-Reading Notes 2          
+[Reading Notes 2](RN2012.md)          
 
 Reading Notes 3          
 
