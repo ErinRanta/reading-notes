@@ -30,7 +30,7 @@
 
 [Reading Notes 2](RN2012.md)          
 
-Reading Notes 3          
+[Reading Notes 3](RN2013.md)          
 
 Reading Notes 4
 
