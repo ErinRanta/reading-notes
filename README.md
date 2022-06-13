@@ -36,7 +36,7 @@
 
 [Reading Notes 5](RN2015.md)         
 
-Reading Notes 6          
+[Reading Notes 6](RN2016.md)          
 
 Reading Notes 7           
 
