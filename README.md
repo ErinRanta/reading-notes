@@ -40,7 +40,7 @@
 
 [Reading Notes 7](RN2017.md)           
 
-Reading Notes 8          
+[Reading Notes 8](RN2018.md)          
            
 Reading Notes 9           
            
