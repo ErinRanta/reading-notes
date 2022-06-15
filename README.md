@@ -38,7 +38,7 @@
 
 [Reading Notes 6](RN2016.md)          
 
-Reading Notes 7           
+[Reading Notes 7](RN2017.md)           
 
 Reading Notes 8          
            
