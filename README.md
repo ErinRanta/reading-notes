@@ -64,7 +64,7 @@
 
 [Reading Notes 3](301RN03.md)
 
-Reading Notes 4
+[Reading Notes 4](301RN04.md)
 
 Reading Notes 5
 
