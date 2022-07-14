@@ -62,7 +62,7 @@
 
 [Reading Notes 2](301RN02.md)
 
-Reading Notes 3
+[Reading Notes 3](301RN03.md)
 
 Reading Notes 4
 
