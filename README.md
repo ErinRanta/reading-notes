@@ -70,7 +70,7 @@
 
 [Reading Notes 6](301RN06.md)
 
-Reading Notes 7
+[Reading Notes 7](301RN07.md)
 
 Reading Notes 8
 
