@@ -72,7 +72,7 @@
 
 [Reading Notes 7](301RN07.md)
 
-Reading Notes 8
+[Reading Notes 8](301RN08.md)
 
 Reading Notes 9
 
