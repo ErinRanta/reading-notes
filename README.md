@@ -80,7 +80,7 @@
 
 [Reading Notes 11](301RN11.md)
 
-Reading Notes 12
+[Reading Notes 12](301RN12.md)
 
 Reading Notes 13
 
